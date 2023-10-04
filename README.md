@@ -1,3 +1,4 @@
+
 # Scope Lab
 
 ## Learning Goals
